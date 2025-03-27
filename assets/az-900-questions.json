@@ -1,0 +1,1012 @@
+{
+    "questions": [
+      {
+        "questionText": "Which Azure service provides a fully managed NoSQL database?",
+        "options": [
+          {
+            "text": "Azure Cosmos DB",
+            "correct": true
+          },
+          {
+            "text": "Azure SQL Database"
+          },
+          {
+            "text": "Azure Table Storage"
+          },
+          {
+            "text": "Azure Database for MySQL"
+          }
+        ],
+        "explanation": "Azure Cosmos DB is Microsoft's globally distributed, multi-model database service for managing data at planet-scale."
+      },
+      {
+        "questionText": "What is the primary purpose of Azure ExpressRoute?",
+        "options": [
+          {
+            "text": "To create private connections between Azure datacenters and on-premises infrastructure",
+            "correct": true
+          },
+          {
+            "text": "To connect to the public internet"
+          },
+          {
+            "text": "To manage virtual networks"
+          },
+          {
+            "text": "To provide web hosting"
+          }
+        ],
+        "explanation": "Azure ExpressRoute creates private connections between Azure datacenters and infrastructure on your premises or in a colocation environment."
+      },
+      {
+        "questionText": "Which Azure service would you use to create and manage containers?",
+        "options": [
+          {
+            "text": "Azure Kubernetes Service (AKS)",
+            "correct": true
+          },
+          {
+            "text": "Azure Virtual Machines"
+          },
+          {
+            "text": "Azure App Service"
+          },
+          {
+            "text": "Azure Functions"
+          }
+        ],
+        "explanation": "Azure Kubernetes Service (AKS) is a managed container orchestration service that makes it easy to deploy and manage containerized applications."
+      },
+      {
+        "questionText": "What is the purpose of Azure Monitor?",
+        "options": [
+          {
+            "text": "To collect, analyze, and act on telemetry data from Azure and on-premises environments",
+            "correct": true
+          },
+          {
+            "text": "To monitor only virtual machines"
+          },
+          {
+            "text": "To monitor only web applications"
+          },
+          {
+            "text": "To monitor only databases"
+          }
+        ],
+        "explanation": "Azure Monitor provides comprehensive monitoring of Azure and on-premises resources, collecting and analyzing telemetry data to help you understand how your applications are performing."
+      },
+      {
+        "questionText": "Which of the following is a characteristic of the public cloud?",
+        "options": [
+          {
+            "text": "Pay-as-you-go pricing",
+            "correct": true
+          },
+          {
+            "text": "Limited scalability"
+          },
+          {
+            "text": "On-premises hardware required"
+          },
+          {
+            "text": "Private network access only"
+          }
+        ],
+        "explanation": "Pay-as-you-go pricing is a key characteristic of public cloud services, allowing users to pay only for the resources they consume."
+      },
+      {
+        "questionText": "What is Azure Advisor?",
+        "options": [
+          {
+            "text": "A personalized cloud consultant that provides recommendations for optimizing Azure resources",
+            "correct": true
+          },
+          {
+            "text": "A virtual machine management tool"
+          },
+          {
+            "text": "A database administration tool"
+          },
+          {
+            "text": "A network monitoring tool"
+          }
+        ],
+        "explanation": "Azure Advisor analyzes your resource configuration and usage telemetry to provide personalized recommendations to help you optimize your Azure resources."
+      },
+      {
+        "questionText": "Which Azure service would you use to ensure your application can recover from a regional outage?",
+        "options": [
+          {
+            "text": "Azure Site Recovery",
+            "correct": true
+          },
+          {
+            "text": "Azure Backup"
+          },
+          {
+            "text": "Azure Storage"
+          },
+          {
+            "text": "Azure CDN"
+          }
+        ],
+        "explanation": "Azure Site Recovery provides disaster recovery as a service (DRaaS) by replicating workloads from a primary site to a secondary location."
+      },
+      {
+        "questionText": "What is the main benefit of using Azure Blueprints?",
+        "options": [
+          {
+            "text": "To define repeatable sets of Azure resources that adhere to organizational standards",
+            "correct": true
+          },
+          {
+            "text": "To create virtual networks"
+          },
+          {
+            "text": "To manage storage accounts"
+          },
+          {
+            "text": "To monitor resource usage"
+          }
+        ],
+        "explanation": "Azure Blueprints enables cloud architects to define a repeatable set of Azure resources that implements and adheres to organizational standards, patterns, and requirements."
+      },
+      {
+        "questionText": "Which service in Azure provides managed Hadoop clusters?",
+        "options": [
+          {
+            "text": "Azure HDInsight",
+            "correct": true
+          },
+          {
+            "text": "Azure Databricks"
+          },
+          {
+            "text": "Azure Synapse Analytics"
+          },
+          {
+            "text": "Azure Data Factory"
+          }
+        ],
+        "explanation": "Azure HDInsight is a managed, full-spectrum, open-source analytics service for enterprises that makes it easy to process massive amounts of data using popular open-source frameworks."
+      },
+      {
+        "questionText": "What is the purpose of Azure Logic Apps?",
+        "options": [
+          {
+            "text": "To automate and orchestrate tasks, business processes, and workflows",
+            "correct": true
+          },
+          {
+            "text": "To create virtual machines"
+          },
+          {
+            "text": "To manage databases"
+          },
+          {
+            "text": "To monitor network traffic"
+          }
+        ],
+        "explanation": "Azure Logic Apps is a cloud service that helps you automate and orchestrate tasks, business processes, and workflows when you need to integrate apps, data, systems, and services."
+      },
+      {
+        "questionText": "Which Azure service provides a cloud-based enterprise identity and access management solution?",
+        "options": [
+          {
+            "text": "Azure Active Directory",
+            "correct": true
+          },
+          {
+            "text": "Azure Key Vault"
+          },
+          {
+            "text": "Azure Security Center"
+          },
+          {
+            "text": "Azure Monitor"
+          }
+        ],
+        "explanation": "Azure Active Directory (Azure AD) is Microsoft's cloud-based identity and access management service that helps employees sign in and access resources."
+      },
+      {
+        "questionText": "What is the primary purpose of Azure Front Door?",
+        "options": [
+          {
+            "text": "To provide global load balancing and site acceleration for web applications",
+            "correct": true
+          },
+          {
+            "text": "To store data"
+          },
+          {
+            "text": "To manage virtual machines"
+          },
+          {
+            "text": "To create databases"
+          }
+        ],
+        "explanation": "Azure Front Door is a global, scalable entry-point that uses Microsoft's global edge network to create fast, secure, and widely scalable web applications."
+      },
+      {
+        "questionText": "Which Azure service would you use to create a private registry for container images?",
+        "options": [
+          {
+            "text": "Azure Container Registry",
+            "correct": true
+          },
+          {
+            "text": "Azure Storage"
+          },
+          {
+            "text": "Azure Kubernetes Service"
+          },
+          {
+            "text": "Azure Virtual Machines"
+          }
+        ],
+        "explanation": "Azure Container Registry allows you to build, store, and manage container images and artifacts in a private registry for all types of container deployments."
+      },
+      {
+        "questionText": "Which Azure service provides a platform for running containerized applications with automatic scaling and management?",
+        "options": [
+          {
+            "text": "Azure Container Instances",
+            "correct": true
+          },
+          {
+            "text": "Azure Virtual Machines"
+          },
+          {
+            "text": "Azure App Service"
+          },
+          {
+            "text": "Azure Functions"
+          }
+        ],
+        "explanation": "Azure Container Instances provides a fast and simple way to run containerized applications in Azure, with automatic scaling and management capabilities."
+      },
+      {
+        "questionText": "What is the primary purpose of Azure Sentinel?",
+        "options": [
+          {
+            "text": "Cloud-native security information and event management (SIEM)",
+            "correct": true
+          },
+          {
+            "text": "Network monitoring"
+          },
+          {
+            "text": "Database management"
+          },
+          {
+            "text": "Virtual machine scaling"
+          }
+        ],
+        "explanation": "Azure Sentinel is a cloud-native SIEM that provides intelligent security analytics across your enterprise."
+      },
+      {
+        "questionText": "Which service provides automated machine learning capabilities in Azure?",
+        "options": [
+          {
+            "text": "Azure Machine Learning",
+            "correct": true
+          },
+          {
+            "text": "Azure Cognitive Services"
+          },
+          {
+            "text": "Azure Databricks"
+          },
+          {
+            "text": "Azure Synapse Analytics"
+          }
+        ],
+        "explanation": "Azure Machine Learning provides a cloud-based environment for training, deploying, and managing machine learning models."
+      },
+      {
+        "questionText": "What is the purpose of Azure Information Protection?",
+        "options": [
+          {
+            "text": "To classify and protect documents and emails",
+            "correct": true
+          },
+          {
+            "text": "To manage virtual networks"
+          },
+          {
+            "text": "To monitor application performance"
+          },
+          {
+            "text": "To create virtual machines"
+          }
+        ],
+        "explanation": "Azure Information Protection helps organizations classify and protect documents and emails by applying labels."
+      },
+      {
+        "questionText": "Which Azure service provides a managed Apache Spark environment?",
+        "options": [
+          {
+            "text": "Azure Databricks",
+            "correct": true
+          },
+          {
+            "text": "Azure SQL Database"
+          },
+          {
+            "text": "Azure Cosmos DB"
+          },
+          {
+            "text": "Azure Storage"
+          }
+        ],
+        "explanation": "Azure Databricks provides a managed Apache Spark environment that can be integrated with other Azure services."
+      },
+      {
+        "questionText": "What is the main purpose of Azure DevTest Labs?",
+        "options": [
+          {
+            "text": "To create environments for development and testing",
+            "correct": true
+          },
+          {
+            "text": "To store source code"
+          },
+          {
+            "text": "To monitor applications"
+          },
+          {
+            "text": "To manage databases"
+          }
+        ],
+        "explanation": "Azure DevTest Labs helps developers and testers quickly create environments in Azure while minimizing waste and controlling cost."
+      },
+      {
+        "questionText": "Which Azure service would you use to create a hybrid file system?",
+        "options": [
+          {
+            "text": "Azure StorSimple",
+            "correct": true
+          },
+          {
+            "text": "Azure Backup"
+          },
+          {
+            "text": "Azure Site Recovery"
+          },
+          {
+            "text": "Azure Files"
+          }
+        ],
+        "explanation": "Azure StorSimple provides an integrated storage solution that manages storage tasks between on-premises devices and Azure cloud storage."
+      },
+      {
+        "questionText": "What is the purpose of Azure Time Series Insights?",
+        "options": [
+          {
+            "text": "To analyze time-series data from IoT devices",
+            "correct": true
+          },
+          {
+            "text": "To manage virtual machines"
+          },
+          {
+            "text": "To store backups"
+          },
+          {
+            "text": "To monitor network traffic"
+          }
+        ],
+        "explanation": "Azure Time Series Insights is designed to store, visualize, and query large amounts of time series data, such as that generated by IoT devices."
+      },
+      {
+        "questionText": "Which Azure service provides managed PostgreSQL databases?",
+        "options": [
+          {
+            "text": "Azure Database for PostgreSQL",
+            "correct": true
+          },
+          {
+            "text": "Azure SQL Database"
+          },
+          {
+            "text": "Azure Cosmos DB"
+          },
+          {
+            "text": "Azure Table Storage"
+          }
+        ],
+        "explanation": "Azure Database for PostgreSQL is a fully managed database service for PostgreSQL that can handle mission-critical workloads with predictable performance and dynamic scalability."
+      },
+      {
+        "questionText": "What is the main benefit of using Azure Reserved VM Instances?",
+        "options": [
+          {
+            "text": "To save money by pre-paying for one or three years of virtual machine usage",
+            "correct": true
+          },
+          {
+            "text": "To increase performance"
+          },
+          {
+            "text": "To improve security"
+          },
+          {
+            "text": "To add more storage"
+          }
+        ],
+        "explanation": "Azure Reserved VM Instances provide significant cost savings when you commit to one-year or three-year terms for virtual machine usage."
+      },
+      {
+        "questionText": "Which service would you use to create a private Docker container registry in Azure?",
+        "options": [
+          {
+            "text": "Azure Container Registry",
+            "correct": true
+          },
+          {
+            "text": "Azure Kubernetes Service"
+          },
+          {
+            "text": "Azure Container Instances"
+          },
+          {
+            "text": "Azure Web Apps"
+          }
+        ],
+        "explanation": "Azure Container Registry allows you to build, store, and manage container images and artifacts in a private registry for all types of container deployments."
+      },
+      {
+        "questionText": "What is the purpose of Azure Service Fabric?",
+        "options": [
+          {
+            "text": "To build and operate always-on, scalable, distributed applications",
+            "correct": true
+          },
+          {
+            "text": "To store data"
+          },
+          {
+            "text": "To manage virtual networks"
+          },
+          {
+            "text": "To monitor applications"
+          }
+        ],
+        "explanation": "Azure Service Fabric is a distributed systems platform that makes it easy to package, deploy, and manage scalable and reliable microservices and containers."
+      },
+      {
+        "questionText": "Which Azure service provides managed MariaDB databases?",
+        "options": [
+          {
+            "text": "Azure Database for MariaDB",
+            "correct": true
+          },
+          {
+            "text": "Azure SQL Database"
+          },
+          {
+            "text": "Azure Cosmos DB"
+          },
+          {
+            "text": "Azure Table Storage"
+          }
+        ],
+        "explanation": "Azure Database for MariaDB is a fully managed database service for MariaDB that can handle mission-critical workloads with predictable performance and dynamic scalability."
+      },
+      {
+        "questionText": "What is the main purpose of Azure Application Gateway?",
+        "options": [
+          {
+            "text": "To provide web application firewall and load balancing capabilities",
+            "correct": true
+          },
+          {
+            "text": "To store data"
+          },
+          {
+            "text": "To manage virtual machines"
+          },
+          {
+            "text": "To monitor applications"
+          }
+        ],
+        "explanation": "Azure Application Gateway is a web traffic load balancer that enables you to manage traffic to your web applications and includes a web application firewall."
+      },
+      {
+        "questionText": "Which Azure service would you use to implement a site-to-site VPN?",
+        "options": [
+          {
+            "text": "Azure VPN Gateway",
+            "correct": true
+          },
+          {
+            "text": "Azure Front Door"
+          },
+          {
+            "text": "Azure CDN"
+          },
+          {
+            "text": "Azure Traffic Manager"
+          }
+        ],
+        "explanation": "Azure VPN Gateway enables you to create encrypted cross-premises connections between your virtual network and on-premises networks."
+      },
+      {
+        "questionText": "What is the purpose of Azure Batch?",
+        "options": [
+          {
+            "text": "To run large-scale parallel and high-performance computing applications",
+            "correct": true
+          },
+          {
+            "text": "To store data"
+          },
+          {
+            "text": "To manage databases"
+          },
+          {
+            "text": "To monitor networks"
+          }
+        ],
+        "explanation": "Azure Batch enables you to run large-scale parallel and high-performance computing applications efficiently in the cloud."
+      },
+      {
+        "questionText": "Which Azure service provides a managed Redis cache?",
+        "options": [
+          {
+            "text": "Azure Cache for Redis",
+            "correct": true
+          },
+          {
+            "text": "Azure SQL Database"
+          },
+          {
+            "text": "Azure Table Storage"
+          },
+          {
+            "text": "Azure Cosmos DB"
+          }
+        ],
+        "explanation": "Azure Cache for Redis provides an in-memory data store based on Redis that helps improve the performance and scalability of applications."
+      },
+      {
+        "questionText": "What is the main purpose of Azure API Management?",
+        "options": [
+          {
+            "text": "To publish, secure, transform, maintain, and monitor APIs",
+            "correct": true
+          },
+          {
+            "text": "To store data"
+          },
+          {
+            "text": "To manage virtual machines"
+          },
+          {
+            "text": "To create websites"
+          }
+        ],
+        "explanation": "Azure API Management helps organizations publish APIs to external, partner, and internal developers to unlock the potential of their data and services."
+      },
+      {
+        "questionText": "Which Azure service provides managed MySQL databases?",
+        "options": [
+          {
+            "text": "Azure Database for MySQL",
+            "correct": true
+          },
+          {
+            "text": "Azure SQL Database"
+          },
+          {
+            "text": "Azure Cosmos DB"
+          },
+          {
+            "text": "Azure Table Storage"
+          }
+        ],
+        "explanation": "Azure Database for MySQL is a fully managed database service for MySQL that can handle mission-critical workloads with predictable performance and dynamic scalability."
+      },
+      {
+        "questionText": "What is the purpose of Azure Service Bus?",
+        "options": [
+          {
+            "text": "To provide a fully managed enterprise message broker",
+            "correct": true
+          },
+          {
+            "text": "To store data"
+          },
+          {
+            "text": "To manage virtual machines"
+          },
+          {
+            "text": "To monitor applications"
+          }
+        ],
+        "explanation": "Azure Service Bus is a fully managed enterprise integration message broker that enables you to decouple applications and services from each other."
+      },
+      {
+        "questionText": "What is the primary purpose of Azure Bastion?",
+        "options": [
+          {
+            "text": "To provide secure RDP and SSH access to virtual machines",
+            "correct": true
+          },
+          {
+            "text": "To store data securely"
+          },
+          {
+            "text": "To manage network traffic"
+          },
+          {
+            "text": "To monitor applications"
+          }
+        ],
+        "explanation": "Azure Bastion provides secure and seamless RDP/SSH connectivity to your virtual machines directly from the Azure portal over SSL."
+      },
+      {
+        "questionText": "Which Azure service is used for creating and sharing dashboards?",
+        "options": [
+          {
+            "text": "Azure Dashboard",
+            "correct": true
+          },
+          {
+            "text": "Azure Monitor"
+          },
+          {
+            "text": "Azure Analytics"
+          },
+          {
+            "text": "Azure Metrics"
+          }
+        ],
+        "explanation": "Azure Dashboard allows you to create customized views and share monitoring data across your organization."
+      },
+      {
+        "questionText": "What is the main benefit of Azure Spot Virtual Machines?",
+        "options": [
+          {
+            "text": "Significant cost savings with interruptible workloads",
+            "correct": true
+          },
+          {
+            "text": "Increased performance"
+          },
+          {
+            "text": "Better security"
+          },
+          {
+            "text": "More storage capacity"
+          }
+        ],
+        "explanation": "Azure Spot VMs allow you to take advantage of unused Azure capacity at a significant cost savings, with the tradeoff that they may be interrupted."
+      },
+      {
+        "questionText": "Which Azure service provides managed Elasticsearch?",
+        "options": [
+          {
+            "text": "Azure Elastic",
+            "correct": true
+          },
+          {
+            "text": "Azure Search"
+          },
+          {
+            "text": "Azure Cosmos DB"
+          },
+          {
+            "text": "Azure Cache"
+          }
+        ],
+        "explanation": "Azure Elastic provides fully managed Elasticsearch service that makes it easy to deploy, operate, and scale Elasticsearch clusters."
+      },
+      {
+        "questionText": "What is the purpose of Azure Private Link?",
+        "options": [
+          {
+            "text": "To access Azure PaaS services over a private endpoint in your virtual network",
+            "correct": true
+          },
+          {
+            "text": "To create public endpoints"
+          },
+          {
+            "text": "To manage virtual machines"
+          },
+          {
+            "text": "To store data"
+          }
+        ],
+        "explanation": "Azure Private Link enables you to access Azure PaaS Services over a private endpoint in your virtual network, eliminating exposure to the public internet."
+      },
+      {
+        "questionText": "Which feature in Azure AD provides secure remote access to on-premises web applications?",
+        "options": [
+          {
+            "text": "Application Proxy",
+            "correct": true
+          },
+          {
+            "text": "VPN Gateway"
+          },
+          {
+            "text": "ExpressRoute"
+          },
+          {
+            "text": "Load Balancer"
+          }
+        ],
+        "explanation": "Azure AD Application Proxy provides secure remote access to on-premises web applications, allowing users to access internal applications from outside the corporate network."
+      },
+      {
+        "questionText": "What is the primary use of Azure Data Share?",
+        "options": [
+          {
+            "text": "To share data securely between organizations",
+            "correct": true
+          },
+          {
+            "text": "To store files"
+          },
+          {
+            "text": "To backup data"
+          },
+          {
+            "text": "To monitor networks"
+          }
+        ],
+        "explanation": "Azure Data Share enables organizations to securely share data with multiple customers and partners, providing simple and secure data sharing capabilities."
+      },
+      {
+        "questionText": "Which Azure service provides managed Apache Cassandra?",
+        "options": [
+          {
+            "text": "Azure Managed Instance for Apache Cassandra",
+            "correct": true
+          },
+          {
+            "text": "Azure Cosmos DB"
+          },
+          {
+            "text": "Azure Table Storage"
+          },
+          {
+            "text": "Azure SQL Database"
+          }
+        ],
+        "explanation": "Azure Managed Instance for Apache Cassandra provides a managed service for running Apache Cassandra workloads on Azure."
+      },
+      {
+        "questionText": "What is the main purpose of Azure Lighthouse?",
+        "options": [
+          {
+            "text": "To enable multi-tenant management at scale",
+            "correct": true
+          },
+          {
+            "text": "To monitor applications"
+          },
+          {
+            "text": "To manage databases"
+          },
+          {
+            "text": "To store data"
+          }
+        ],
+        "explanation": "Azure Lighthouse enables service providers to manage multiple customer tenants from a single control plane, increasing efficiency and scalability."
+      },
+      {
+        "questionText": "Which Azure service provides managed event routing?",
+        "options": [
+          {
+            "text": "Azure Event Grid",
+            "correct": true
+          },
+          {
+            "text": "Azure Service Bus"
+          },
+          {
+            "text": "Azure Queue Storage"
+          },
+          {
+            "text": "Azure Event Hubs"
+          }
+        ],
+        "explanation": "Azure Event Grid provides managed event routing that enables event-driven architectures with near real-time event delivery."
+      },
+      {
+        "questionText": "What is the purpose of Azure Dedicated Host?",
+        "options": [
+          {
+            "text": "To provide physical servers dedicated to one Azure subscription",
+            "correct": true
+          },
+          {
+            "text": "To manage virtual networks"
+          },
+          {
+            "text": "To store data"
+          },
+          {
+            "text": "To monitor applications"
+          }
+        ],
+        "explanation": "Azure Dedicated Host provides physical servers that host one or more virtual machines and are dedicated to one Azure subscription."
+      },
+      {
+        "questionText": "Which Azure service helps in discovering and managing your organization's data estate?",
+        "options": [
+          {
+            "text": "Azure Purview",
+            "correct": true
+          },
+          {
+            "text": "Azure Monitor"
+          },
+          {
+            "text": "Azure Advisor"
+          },
+          {
+            "text": "Azure Security Center"
+          }
+        ],
+        "explanation": "Azure Purview is a unified data governance service that helps manage and govern your on-premises, multi-cloud, and SaaS data."
+      },
+      {
+        "questionText": "What is the main purpose of Azure Sphere?",
+        "options": [
+          {
+            "text": "To create secured, connected MCU-powered devices",
+            "correct": true
+          },
+          {
+            "text": "To manage virtual machines"
+          },
+          {
+            "text": "To store data"
+          },
+          {
+            "text": "To monitor networks"
+          }
+        ],
+        "explanation": "Azure Sphere is a secured, high-level application platform with built-in communication and security features for internet-connected devices."
+      },
+      {
+        "questionText": "Which Azure service provides managed Apache Kafka?",
+        "options": [
+          {
+            "text": "Azure Event Hubs for Apache Kafka",
+            "correct": true
+          },
+          {
+            "text": "Azure Service Bus"
+          },
+          {
+            "text": "Azure Queue Storage"
+          },
+          {
+            "text": "Azure Event Grid"
+          }
+        ],
+        "explanation": "Azure Event Hubs for Apache Kafka provides a managed service compatible with Apache Kafka that enables you to use Kafka clients and tools with Event Hubs."
+      },
+      {
+        "questionText": "What is the purpose of Azure Stack?",
+        "options": [
+          {
+            "text": "To extend Azure services and capabilities to your environment of choice",
+            "correct": true
+          },
+          {
+            "text": "To manage cloud storage"
+          },
+          {
+            "text": "To monitor applications"
+          },
+          {
+            "text": "To create virtual networks"
+          }
+        ],
+        "explanation": "Azure Stack extends Azure services and capabilities to your environment of choice - from the datacenter to edge locations and remote offices."
+      },
+      {
+        "questionText": "Which Azure service provides managed Jenkins?",
+        "options": [
+          {
+            "text": "Azure DevOps",
+            "correct": true
+          },
+          {
+            "text": "Azure Pipeline"
+          },
+          {
+            "text": "Azure Boards"
+          },
+          {
+            "text": "Azure Repos"
+          }
+        ],
+        "explanation": "Azure DevOps provides managed Jenkins services as part of its continuous integration and continuous delivery (CI/CD) capabilities."
+      },
+      {
+        "questionText": "What is the main purpose of Azure Cognitive Search?",
+        "options": [
+          {
+            "text": "To add search capabilities to applications",
+            "correct": true
+          },
+          {
+            "text": "To store data"
+          },
+          {
+            "text": "To manage virtual machines"
+          },
+          {
+            "text": "To monitor networks"
+          }
+        ],
+        "explanation": "Azure Cognitive Search is a cloud search service that gives developers APIs and tools for adding a rich search experience over private, heterogeneous content in web, mobile, and enterprise applications."
+      },
+      {
+        "questionText": "Which Azure service provides managed OpenShift clusters?",
+        "options": [
+          {
+            "text": "Azure Red Hat OpenShift",
+            "correct": true
+          },
+          {
+            "text": "Azure Kubernetes Service"
+          },
+          {
+            "text": "Azure Container Instances"
+          },
+          {
+            "text": "Azure Web Apps"
+          }
+        ],
+        "explanation": "Azure Red Hat OpenShift provides fully managed OpenShift clusters on Azure, jointly engineered and supported by Microsoft and Red Hat."
+      },
+      {
+        "questionText": "What is the purpose of Azure Percept?",
+        "options": [
+          {
+            "text": "To develop and deploy AI solutions at the edge",
+            "correct": true
+          },
+          {
+            "text": "To manage databases"
+          },
+          {
+            "text": "To monitor applications"
+          },
+          {
+            "text": "To store data"
+          }
+        ],
+        "explanation": "Azure Percept is a comprehensive, easy-to-use platform with added security for creating and deploying AI solutions to the edge."
+      },
+      {
+        "questionText": "Which Azure service provides managed Apache HBase?",
+        "options": [
+          {
+            "text": "Azure HDInsight",
+            "correct": true
+          },
+          {
+            "text": "Azure Databricks"
+          },
+          {
+            "text": "Azure Synapse Analytics"
+          },
+          {
+            "text": "Azure Data Factory"
+          }
+        ],
+        "explanation": "Azure HDInsight provides managed Apache HBase clusters as part of its big data processing capabilities."
+      }
+    ]
+  }
+  
